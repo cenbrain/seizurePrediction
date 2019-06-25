@@ -1,0 +1,24 @@
+  PatientID      No. of channels     No. of seizures      Chosen
+    chb01               23                  7               T
+    chb02               23                  3               T
+    chb03               23                  6               T
+    chb04               23 24               3               F
+    chb05               23                  5               T
+    chb06               23                  10              T
+    chb07               23                  3               T
+    chb08               23                  5               T
+    chb09               23 24               4               F
+    chb10               23                  7               T
+    chb11               23 23               3               F
+    chb12               23 23 25 24         40              F
+    chb13               23 20 18 23 18 23   12              F
+    chb14               23                  8               T
+    chb15               26 32               20              F
+    chb16               23 18               10              F
+    chb17               23 18               3               F
+    chb18               23                  6               T
+    chb19               23                  3               T
+    chb20               23                  7               T
+    chb21               23                  4               T
+    chb22               23                  3               F
+    chb23               23                  7               F
